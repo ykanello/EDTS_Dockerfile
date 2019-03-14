@@ -13,7 +13,7 @@ I would make a new folder on the machine I run docker, pull the Dockerfile and `
 ## How would I run the image
 I would change directory into that I pulled the dockerfile, and run `docker run -ti --rm edts sh`
 ## How would I use the tools?
-As it states in their repo/readme: `python ./distance.py Lave Sol Tionisla Diso Leesti Reorte Riedquat Teorge Zeonce` 
+As it states in their repo/readme: `python ./distance.py Lave Sol Tionisla Diso Leesti Reorte Riedquat Teorge Zaonce` 
 (to create a distance table for example)
 ## Acknowledgements 
 All kudos go to https://bitbucket.org/Esvandiary/ Andy Martin that built the tools and sourced them :) 
